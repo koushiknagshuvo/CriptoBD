@@ -1,0 +1,27 @@
+.About-img {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 50px;
+}
+.About-img img {
+  height: 35vh;
+  width: auto;
+}
+.About_Discription {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 50px;
+  flex-direction: column;
+}
+.About_Discription img {
+  height: 50px;
+  width: auto;
+}
+.About_Discription p {
+  color: rgb(190, 190, 190);
+  width: 50%;
+  text-align: center;
+  margin-top: 15px;
+}
